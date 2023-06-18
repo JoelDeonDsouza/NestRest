@@ -29,7 +29,7 @@ export const styles = StyleSheet.create({
     marginTop: height / 32,
   },
   listContainer: {
-    width: width / 1.066,
+    width: "100%",
     height: height / 5.5,
     marginBottom: height / 40,
     borderRadius: 10,
